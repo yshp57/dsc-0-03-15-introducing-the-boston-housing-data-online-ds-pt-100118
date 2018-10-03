@@ -8,8 +8,6 @@ Kaggle hosts numerous data science competitions where you can grab datasets and 
 # Objectives
 
 * Create a kaggle account and download a data set
-* Understand and explain what Kaggle is and how to engage with it as a data scientist
-* Explain what the Boston Housing Data is and how it’s commonly used by aspiring data scientists
 
 ## Navigate to kaggle.com
 
@@ -25,5 +23,4 @@ Kaggle hosts numerous data science competitions where you can grab datasets and 
 
 You should now be signed up for kaggle where you'll have access to a range of datasets, competitons and other data science resources! Welcome to the community!
 
-In our upcoming lab, you'll then be working with this dataset: https://www.kaggle.com/c/boston-housing !
-Go on to the next lab and continue on!
+In our upcoming lab, you'll then be working with this dataset: https://www.kaggle.com/c/boston-housing. To download it, clidk on the "data" tab and then click the "download all" to get a copy of the data.
