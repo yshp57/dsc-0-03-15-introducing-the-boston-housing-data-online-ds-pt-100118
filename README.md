@@ -1,12 +1,15 @@
 
 # Kaggle and The Boston Housing Dataset
 
-Kaggle hosts numerous data science competitions where you can grab mock datasets and practice your skills at creating machine learning algorithms to answer useful questions. Here we'll sign up for an account and begin investigating a classic data science problem using the Boston housing dataset.
+## Introduction
+
+Kaggle hosts numerous data science competitions where you can grab datasets and practice your skills at creating machine learning algorithms to answer useful questions. Here we'll sign up for an account and begin investigating a classic data science problem using the Boston housing dataset.
 
 # Objectives
 
-* Create a Kaggle account
-* Begin exploring the Boston housing dataset
+* Create a kaggle account and download a data set
+* Understand and explain what Kaggle is and how to engage with it as a data scientist
+* Explain what the Boston Housing Data is and how it’s commonly used by aspiring data scientists
 
 ## Navigate to kaggle.com
 
